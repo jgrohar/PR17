@@ -16,7 +16,7 @@ Trenutno so glavna vprašanja:
 - kateri in kakšni so najbol popularni segmenti,
 - ...
 
-*(S časom, delom s podatki in globljim poznavanjem področja seveda lahko pride do novih uprašanj in dognanj)*
+*(S časom, delom s podatki in globljim poznavanjem področja seveda lahko pride do novih vprašanj in dognanj)*
 
 #### SKUPINA 17
 - Jurij Grohar
