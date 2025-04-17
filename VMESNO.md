@@ -22,7 +22,9 @@ Segmentom smo zbrisali za nadaljno analizo nepotrebne atribute in izračunali do
 ```['id', 'name', 'activity_type', 'distance', 'average_grade', 'maximum_grade', 'elevation_high', 'elevation_low', 'start_latlng', 'end_latlng', 'elevation_profile', 'elevation_profiles', 'country', 'total_elevation_gain', 'map', 'effort_count', 'kom', 'qom', 'climb_score', 'is_flat', 'custom_climb_category', 'region']```
 
 Formula za izračun `climb_score`:
-climb_score = (avg_grade × total_elevation_gain) / 100
+$$
+\text{climb\_score} = \frac{\text{avg\_grade} \times \text{total\_elevation\_gain}}{100}
+$$
 
 Glede na porazdelitev `climb_score` izbrane mejne vredosti za kategorije:
 ```bins = [-float("inf"), 4, 10, 20, 40, float("inf")]```
