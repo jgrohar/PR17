@@ -68,7 +68,7 @@ Segmentom smo zbrisali za nadaljno analizo nepotrebne atribute in izračunali do
 
 ---
 
-**Uporabljena izvorna koda**
+**Izvorna koda**
 
 Za analizo podatkov smo uporabili Python Jupyter zvezke:
 
@@ -86,3 +86,5 @@ Za analizo podatkov smo uporabili Python Jupyter zvezke:
 - Določanje tipa podlage poti, kjer je segment in razvrščanje teh med cestne in "gozdne" oz. "makadamske", analiza kako to vpliva na priljubljenost, čas.
 - Pridobivanje podatkov o kolesarstvu iz drugih virov, npr. Komoot routes in primerjava, integracija.*
 - Izdelava interaktivnega orodja za prikaz zbranih podatkov in t.i. priporočilni sistem za kolesarsko pot glede na vnos uporabnika. Regija, cestna površina, težavnost, dolžina -> pot.*
+
+![alt text](image-4.png)
