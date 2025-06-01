@@ -1,16 +1,15 @@
-import streamlit as st
-import pandas as pd
-import folium
-from streamlit_folium import st_folium
-from folium import Popup
-import polyline
-import json
-import matplotlib.pyplot as plt
-import seaborn as sns
-import geopandas as gpd
-from shapely.geometry import Point
-import numpy as np
-import plotly.express as px
-from PIL import Imag
-import random
-from geopy.distance import geodesic
+streamlit
+pandas
+folium
+streamlit_folium
+polyline
+json
+matplotlib.pyplot
+seaborn
+geopandas
+shapely.geometry
+numpy
+plotly.express
+PIL
+random
+geopy.distance
