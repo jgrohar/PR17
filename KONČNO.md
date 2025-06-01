@@ -97,8 +97,6 @@ Glede na porazdelitev `climb_score` izbrane mejne vredosti za kategorije:
 
 - Poskusili smo povezati Stravine segmente s slikami s Komoot routes, ki se nahajajo na isti lokaciji, a je bil prvi problem že sama pridobitev podatkov s Komoota, saj ta nima javnega API-ja. Tako smo poskusili s Seleniumom, a je delalo prepočasi, nato pa smo med raziskovanjem klicev na Komootovi spletni strani odkrili klice na zasebni API, kar smo uporabili za pridobitev podatkov o poteh (routes). Ko smo potem poskusili podobno še s slikami, je za vsako pot prikazalo le eno sliko. Tega nam na žalost ni uspelo rešiti in tako nismo mogli uporabiti Komootovih slik.
 
-![alt text](image-7.png)
-
 **Streamlit aplikacija**
 
 - V sklopu projekta smo pripravili Streamlit aplikacijo Kolesarjenje ki ima tri glavne strani:
