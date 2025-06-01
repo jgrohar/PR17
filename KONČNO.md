@@ -89,8 +89,8 @@ Glede na porazdelitev `climb_score` izbrane mejne vredosti za kategorije:
 - Kljub enakomerni razporejenosti, segmenti niso enakomerno prevoženi kar nakazuje na različno kolesarsko aktivne regije.
 - Najbolj priljubljeni so ravni oz. lahki segmenti, priljubljenost s težavnostjo pada.
 
-
 ![alt text](image-4.png)
+
 ---
 
 **Integracija slik s Komoota**
