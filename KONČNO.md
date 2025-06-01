@@ -106,8 +106,20 @@ Glede na porazdelitev `climb_score` izbrane mejne vredosti za kategorije:
 
 - Odločili smo se, da bomo naredili priporočilno aplikacijo, kjer uporabnik vnese nekaj parametrov in glede na njih aplikacija prikaže ustrezno pot. Parametri so: regija, skupna dolžina segmentov, težavnost in podlaga. Aplikacija na podlagi atributov izbere segmente in jih interaktivno predstavi uporabniku. Ta ima nato možnost planiranja poti, ki te segmente vključuje. (Segmenti so poleg atributov filtrirani tudi tako da se konec enega ne nahaja dlje kot 10 km stran od naslednjega, zato je korak planiranja poti lažji.)
 
+povezava do "deployane" aplikacije: https://jgrohar-pr17-kolesarjenje-vtonku.streamlit.app/
+
 **Nadaljne možnosti**
 
 Če bi se projekt nadaljeval bi v funkcionalnost aplikacije lahko dodali planiranje poti, skratka povezovanje začetnih in končnih točk priporočenih segmentov v neko smiselno traso.
 
 ![alt text](image-8.png)
+
+**Pomembne datoteke**
+
+Proces pridobivanja, čiščenja in modificiranja podatkov je opisan v zvezkih:
+- data_extraction
+- data_transform
+- more_data_transforming
+
+Vizualizacija in analiza je izvedena v zvezku:
+- visualizations_analysis1
